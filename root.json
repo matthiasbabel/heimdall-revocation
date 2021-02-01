@@ -1,0 +1,11 @@
+{
+  "pk": {
+    "x": "0x260d81f8e4a0caef9d827be7e45539e075d9f01a1249fb2356ad4189589511da",
+    "y": "0x2b302cfd708267bb98997a931bb1d8c2bb9a21914b498a8c39c27a6ec2f970c9"
+  },
+  "r": {
+    "x": "0x1bd38dab7af289398e11a6e4d03a13d6ebf58ccf1c6f9fd966b4403b0ced874",
+    "y": "0x2ebf94fb128427c334eb5a4d30257f0127abe7f52aa296e3a89ceb7ef4cf5a64"
+  },
+  "s": "0x541d999b65a1ce742470d9a8f76b91beade183ff013ec9cfcb31c2ecc7db36c"
+}
