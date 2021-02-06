@@ -1,0 +1,10 @@
+[ 
+	"firstName", 
+	"lastName",
+	"sex",
+	"dateOfBirth",
+	"eyeColor",
+	"height",
+	"placeOfBirthX",
+	"placeOfBirthY"
+]	
